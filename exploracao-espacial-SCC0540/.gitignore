@@ -1,0 +1,5 @@
+# Variáveis de ambiente
+src/resources/Env.java
+
+# Arquivos de build
+out/

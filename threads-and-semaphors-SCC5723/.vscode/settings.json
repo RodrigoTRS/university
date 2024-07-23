@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "functions.h": "c",
+        "stdio.h": "c",
+        "assert.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "printer_thread.h": "c",
+        "utils.h": "c",
+        "stdbool.h": "c",
+        "pthread.h": "c",
+        "factories.h": "c",
+        "dynamic_list.h": "c",
+        "time.h": "c",
+        "helpers.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

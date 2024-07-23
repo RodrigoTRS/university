@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1263142359
+    locked: 0
+  - name: Tree behinde
+    uniqueID: 2641164125
+    locked: 0
+  - name: Ramps
+    uniqueID: 232212039
+    locked: 0
+  - name: Bottom floor
+    uniqueID: 2030763053
+    locked: 0
+  - name: Top floor
+    uniqueID: 1081985041
+    locked: 0
+  - name: Character
+    uniqueID: 2308687477
+    locked: 0
+  - name: Tree forward
+    uniqueID: 1968728493
+    locked: 0
+  - name: Fog
+    uniqueID: 1256385081
+    locked: 0
+  - name: Effects
+    uniqueID: 795303797
+    locked: 0
